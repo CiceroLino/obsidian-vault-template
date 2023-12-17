@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acd31f4d93666469",
+        "id": "f91c3fa171b14337",
         "type": "tabs",
         "children": [
           {
-            "id": "b92b75ca64d922ef",
+            "id": "617c935b5d98fcd9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exemplo de canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exemplo de canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exemplo de canvas.canvas"
+              }
             }
           }
         ]
@@ -138,8 +142,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92b75ca64d922ef",
+  "active": "90b2b333db67eb92",
   "lastOpenFiles": [
+    "Computer Science/Computer Science.md",
+    "Exemplo de canvas.canvas",
     "README.md",
     "assets/Peek 2023-12-16 23-33.gif",
     "Software Engineering/Backend/Backend.md",
@@ -148,7 +154,6 @@
     "Computer Science/Arquitetura, Projetos e Programação/Teste 3.md",
     "Computer Science/Cálculo e estatística/Teste 2.md",
     "Computer Science/Teórico e científico/Indice teste 1.md",
-    "Computer Science/Computer Science.md",
     "Computer Science/Cálculo e estatística",
     "Computer Science/Teórico e científico",
     "Computer Science/Arquitetura, Projetos e Programação",

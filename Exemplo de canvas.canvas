@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8192ded7110d7d45","x":-400,"y":-240,"width":305,"height":250,"type":"text","text":"Isto aqui é só um exemplo"},
+		{"id":"f1e936c3159ec756","x":20,"y":-240,"width":400,"height":164,"type":"file","file":"assets/cibo1.gif"},
+		{"id":"4f5b2d8b1e078501","x":20,"y":-20,"width":400,"height":282,"type":"file","file":"assets/computer_science.png"}
+	],
+	"edges":[
+		{"id":"dc2520f8a70fdbc6","fromNode":"8192ded7110d7d45","fromSide":"right","toNode":"4f5b2d8b1e078501","toSide":"left"},
+		{"id":"a3629c7fadbca166","fromNode":"4f5b2d8b1e078501","fromSide":"top","toNode":"f1e936c3159ec756","toSide":"bottom"}
+	]
+}
