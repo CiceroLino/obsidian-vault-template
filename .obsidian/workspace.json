@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "16d455b486063142",
+    "type": "split",
+    "children": [
+      {
+        "id": "acd31f4d93666469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b92b75ca64d922ef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e493f931749e2248",
+    "type": "split",
+    "children": [
+      {
+        "id": "789e925491a9b506",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90b2b333db67eb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3024ed458ce1f749",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64b40ff2aa479710",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35ae82e1cc5e3e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9a3bf2e2a5b7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7578f7f7b7316234",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18cf2a53b5fc3f27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ade9945052f678a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d69ec0c73c2a0402",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b92b75ca64d922ef",
+  "lastOpenFiles": [
+    "README.md",
+    "assets/Peek 2023-12-16 23-33.gif",
+    "Software Engineering/Backend/Backend.md",
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/DevOps/DevOps.md",
+    "Computer Science/Arquitetura, Projetos e Programação/Teste 3.md",
+    "Computer Science/Cálculo e estatística/Teste 2.md",
+    "Computer Science/Teórico e científico/Indice teste 1.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Cálculo e estatística",
+    "Computer Science/Teórico e científico",
+    "Computer Science/Arquitetura, Projetos e Programação",
+    "assets/cibo2.gif",
+    "assets/cibo1.gif",
+    "assets/computer_science.png",
+    "assets/gandalf.jpg",
+    "assets/pixel-jeff-matrix-s.gif",
+    "assets/Screenshot from 2023-12-05 16-37-15.png",
+    "assets",
+    "Untitled Folder",
+    "Software Engineering/Frontend/Frontend.md",
+    "Software Engineering/Programming Languages/Javascript.md",
+    "Software Engineering/Programming Languages/Python.md",
+    "Software Engineering/Programming Languages/Java.md",
+    "Software Engineering/Programming Languages/Assembly.md",
+    "Software Engineering/Programming Languages/C.md",
+    "Software Engineering/Programming Languages/Untitled",
+    "Software Engineering/Programming Languages",
+    "Planning Notes",
+    "Software Engineering/DevOps",
+    "Software Engineering/Frontend"
+  ]
+}
